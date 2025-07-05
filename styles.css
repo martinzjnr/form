@@ -655,12 +655,7 @@ body {
 }
 
 .submit-btn:hover .btn-background {
-  background: linear-gradient(
-    135deg,
-    var(--primary) 0%,
-    var(--accent) 50%,
-    var(--primary) 100%
-  );
+background: linear-gradient(135deg, #7000ff, #00ffea );
 }
 
 .submit-btn:active {
@@ -725,7 +720,7 @@ body {
 
 .login-btn {
   color: var(--text-light);
-  background: linear-gradient(135deg, #00ffea, #7000ff);
+ background: linear-gradient(135deg, #7000ff, #00ffea );
   text-decoration: none;
   font-weight: 700;
   padding: 8px 16px;
