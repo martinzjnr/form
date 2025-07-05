@@ -406,7 +406,7 @@ class RegistrationForm {
       // Simulate API call
       await this.simulateRegistration()
 
-      this.showNotification("🎉 Account created successfully! Welcome to CryptoTrade Pro!", "success")
+      this.showNotification("🎉 Account created successfully! Welcome to Elivate Prime Group (EPG)!", "success")
 
       // Reset form after successful submission
       setTimeout(() => {
